@@ -50,6 +50,7 @@ Welcome to Ubuntu 20.04.2 LTS (GNU/Linux 5.4.0-80-generic x86_64)
 This system is built by the Bento project by Chef Software
 More information can be found at https://github.com/chef/bento
 Last login: Thu Nov 11 18:33:49 2021 from 192.168.50.1
+
 vagrant@k8s-master:~$ kubectl get nodes
 NAME         STATUS     ROLES                  AGE    VERSION
 k8s-master   Ready      control-plane,master   5m3s   v1.22.3
